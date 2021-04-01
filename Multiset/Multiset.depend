@@ -1,0 +1,107 @@
+# depslib dependency file v1.0
+1517689740 source:c:\users\desi\desktop\multiset\main.cpp
+	<iostream>
+	<string>
+	<cstring>
+	<vector>
+	"Pair.h"
+	"Node.h"
+	"HashTable.h"
+	"Multiset.h"
+
+1517670063 c:\users\desi\desktop\multiset\pair.h
+	<iostream>
+	"Pair.hpp"
+
+1517661757 c:\users\desi\desktop\multiset\pair.hpp
+
+1517665994 c:\users\desi\desktop\multiset\linkedlist.h
+	<iostream>
+	<stdlib.h>
+	<assert.h>
+	"Pair.h"
+	"Node.h"
+	"LinkedList.hpp"
+
+1517569585 c:\users\desi\desktop\multiset\node.h
+	"Pair.h"
+	<iostream>
+
+1517065033 c:\users\desi\desktop\multiset\iterator.h
+	"Node.h"
+	"Pair.h"
+	<assert.h>
+	"Iterator.hpp"
+
+1517065891 c:\users\desi\desktop\multiset\iterator.hpp
+
+1517673219 c:\users\desi\desktop\multiset\linkedlist.hpp
+
+1517680955 c:\users\desi\desktop\multiset\hashtable.h
+	<iostream>
+	"LinkedList.h"
+	<vector>
+	<string>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+	"HashTable.hpp"
+
+1517680955 c:\users\desi\desktop\multiset\hashtable.hpp
+
+1517685689 c:\users\desi\desktop\multiset\multiset.h
+	<iostream>
+	"HashTable.h"
+	"Multiset.hpp"
+
+1517688811 c:\users\desi\desktop\multiset\multiset.hpp
+
+1517689740 source:d:\sdp\multiset\main.cpp
+	<iostream>
+	<string>
+	<cstring>
+	<vector>
+	"Pair.h"
+	"Node.h"
+	"HashTable.h"
+	"Multiset.h"
+
+1517670063 d:\sdp\multiset\pair.h
+	<iostream>
+	"Pair.hpp"
+
+1517661757 d:\sdp\multiset\pair.hpp
+
+1517569585 d:\sdp\multiset\node.h
+	"Pair.h"
+	<iostream>
+
+1517680955 d:\sdp\multiset\hashtable.h
+	<iostream>
+	"LinkedList.h"
+	<vector>
+	<string>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+	"HashTable.hpp"
+
+1517665994 d:\sdp\multiset\linkedlist.h
+	<iostream>
+	<stdlib.h>
+	<assert.h>
+	"Pair.h"
+	"Node.h"
+	"LinkedList.hpp"
+
+1517673219 d:\sdp\multiset\linkedlist.hpp
+
+1517680955 d:\sdp\multiset\hashtable.hpp
+
+1517685689 d:\sdp\multiset\multiset.h
+	<iostream>
+	"HashTable.h"
+	"Multiset.hpp"
+
+1517688811 d:\sdp\multiset\multiset.hpp
+
